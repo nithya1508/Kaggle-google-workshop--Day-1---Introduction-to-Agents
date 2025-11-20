@@ -107,5 +107,6 @@ If you're interested in AI, analytics, cloud computing, or agentic systems, feel
 
 Nithyashree Babu
 MSc Business Analytics | AI & Data | Cloud
-GitHub: your-github-url
-LinkedIn: your-linkedin-url
+GitHub:https://github.com/nithya1508 
+LinkedIn:https://www.linkedin.com/in/cognitiveinsight/
+
