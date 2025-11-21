@@ -1,16 +1,15 @@
-Vertex AI Agents – Day 1 Labs
+**Vertex AI Agents – Day 1 Labs**
 
 This repository contains my implementations of the Google Cloud Vertex AI Agents Day-1 hands-on labs. The notebooks demonstrate how to build, configure, and interact with AI agents using Vertex AI Agent Engine, including prompt execution, agent deployment, and asynchronous/streaming queries.
 
 These labs are part of my continuous learning in Cloud AI, Agentic Systems, and Applied Machine Learning.
 
-📁 Repository Structure
+**Repository Structure**
 File	Description
 day-1a-from-prompt-to-action.ipynb	Introduces the basics of Vertex AI Agents including project setup, initializing the SDK, prompt execution, synchronous agent queries, and environment configuration.
 day-1b-agent-architectures.ipynb	Explores agent architectures, deployed agent retrieval, remote agent interaction, async queries, streaming responses, and architectural patterns.
 ⚙️ Key Topics Covered
-1. Environment & Project Setup
-
+**1. Environment & Project Setup**
 Setting up PROJECT_ID
 
 Defining deployed_region
@@ -19,8 +18,7 @@ Initializing Vertex AI using vertexai.init()
 
 Handling environment variables and authentication
 
-2. Agent Engine Basics
-
+**2. Agent Engine Basics**
 Listing existing agents
 
 Loading a deployed agent programmatically
@@ -29,7 +27,7 @@ Executing prompt-based interactions
 
 Understanding input/output structures
 
-3. Async & Streaming Queries
+**3. Async & Streaming Queries**
 
 Using async_stream_query() for real-time token streaming
 
@@ -39,7 +37,7 @@ Managing user sessions (user_id)
 
 Handling exceptions and async execution patterns
 
-4. Agent Architectures
+**4. Agent Architectures**
 
 Local vs. remote agents
 
@@ -49,7 +47,7 @@ Interaction flows between components
 
 Best practices for scalable agent design
 
-5. Troubleshooting & Debugging
+**5. Troubleshooting & Debugging**
 
 The notebooks include solutions to common issues such as:
 
@@ -61,8 +59,8 @@ Incorrect indentation
 
 Missing environment configuration
 
-🚀 Getting Started
-Prerequisites
+ **Getting Started
+Prerequisites**
 
 Python 3.10+
 
@@ -85,7 +83,7 @@ How deployed agents are managed via Agent Engine
 
 How to structure agentic workflows effectively
 
-🛠 Technologies Used
+**🛠 Technologies Used**
 
 Vertex AI
 
@@ -97,7 +95,7 @@ Google Cloud SDK
 
 Agent Engine (Preview/Beta)
 
-📄 License
+ **License**
 
 This project is licensed under the MIT License.
 
