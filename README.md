@@ -3,12 +3,12 @@
 This repository contains my implementations of the Google Cloud Vertex AI Agents Day-1 hands-on labs. The notebooks demonstrate how to build, configure, and interact with AI agents using Vertex AI Agent Engine, including prompt execution, agent deployment, and asynchronous/streaming queries.
 
 These labs are part of my continuous learning in Cloud AI, Agentic Systems, and Applied Machine Learning.
-
 **Repository Structure**
 File	Description
 day-1a-from-prompt-to-action.ipynb	Introduces the basics of Vertex AI Agents including project setup, initializing the SDK, prompt execution, synchronous agent queries, and environment configuration.
 day-1b-agent-architectures.ipynb	Explores agent architectures, deployed agent retrieval, remote agent interaction, async queries, streaming responses, and architectural patterns.
-⚙️ Key Topics Covered
+
+**Key Topics Covered**
 **1. Environment & Project Setup**
 Setting up PROJECT_ID
 
@@ -100,12 +100,12 @@ Agent Engine (Preview/Beta)
 
 This project is licensed under the MIT License.
 
-📬 Contact
+**Contact**
 
 If you're interested in AI, analytics, cloud computing, or agentic systems, feel free to connect.
 
-Nithyashree Babu
-MSc Business Analytics | AI & Data | Cloud
+**Nithyashree Babu
+MSc Business Analytics | AI & Data | Cloud**
 GitHub:https://github.com/nithya1508 
 LinkedIn:https://www.linkedin.com/in/cognitiveinsight/
 
