@@ -69,7 +69,8 @@ Google Cloud Project
 Vertex AI API enabled
 
 Appropriate IAM permissions or service account credentials
-📘 Learning Outcomes
+
+**Learning Outcomes**
 
 After completing these labs, you will understand:
 
