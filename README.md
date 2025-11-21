@@ -1,6 +1,7 @@
 **Vertex AI Agents – Day 1 Labs**
 This repository contains my implementations of the Google Cloud Vertex AI Agents Day-1 hands-on labs. The notebooks demonstrate how to build, configure, and interact with AI agents using Vertex AI Agent Engine, including prompt execution, agent deployment, and asynchronous/streaming queries.
 These labs are part of my continuous learning in Cloud AI, Agentic Systems, and Applied Machine Learning.
+
 **Repository Structure**
 
 File	Description
